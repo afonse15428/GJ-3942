@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: Time Series Analysis of GJ 3942
+message: 'If using this software, please cite it as below'
+type: software
+authors:
+  - given-names: Andrew
+    family-names: Fonseca
+    email: afonse@udel.edu
+    affiliation: University of Delaware
+    orcid: 'https://orcid.org/0000-0003-3545-4240'
+  - given-names: Sarah
+    family-names: Dodson-Robinson
+    orcid: 'https://orcid.org/0000-0002-8796-4974'
+    affiliation: University of Delaware
+    email: sdr@udel.edu
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14187052
+date-released: '2024-11-19'
