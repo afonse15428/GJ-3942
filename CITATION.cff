@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: Time Series Analysis of GJ 3942
-message: 'If using this software, please cite it as below'
+message: 'If using this software, please cite it as is in CITATION.cff'
 type: software
 authors:
   - given-names: Andrew
