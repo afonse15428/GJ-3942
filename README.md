@@ -16,5 +16,5 @@ Sarah Dodson-Robinson
 
 ---
 
-[![DOI](https://zenodo.org/badge/830615706.svg)](https://doi.org/10.5281/zenodo.14187266)
+[![DOI](https://zenodo.org/badge/830615706.svg)](https://doi.org/10.5281/zenodo.14187051)
 
